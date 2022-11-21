@@ -1,0 +1,22 @@
+{
+  "posts": [],
+  "comments": [
+    {
+      "fullname": "prince mishra",
+      "email": "prince@gmail.com",
+      "password": "asdfghjkl",
+      "mobile": 23123131332,
+      "id": 1
+    },
+    {
+      "fullname": "salman khan",
+      "email": "salman@gmail.com",
+      "password": "12345",
+      "mobile": 764564367,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
